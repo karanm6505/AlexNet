@@ -1,8 +1,6 @@
 # AlexNet using PyTorch
 
-## Description
-
-AlexNet is a deep convolutional neural network (CNN) architecture developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton. It won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012 and played a crucial role in the advancement of deep learning. This repository provides an implementation of AlexNet using PyTorch in a Jupyter Notebook (`AlexNet.ipynb`), including model training, evaluation, and results.
+A PyTorch implementation of the classic AlexNet convolutional neural network provided in a Jupyter Notebook.
 
 ## Table of Contents
 
