@@ -31,7 +31,7 @@ This repository provides an implementation of AlexNet using PyTorch in a Jupyter
 
 ## Dataset
 
-The implementation uses the ImageNet dataset or a smaller dataset such as CIFAR-10 for demonstration. The dataset will be automatically downloaded using `torchvision.datasets` if not already present.
+The implementation uses the CIFAR-10 for demonstration. 
 
 **Note:** To download the dataset, ensure that you run **Cell Block 3** in the Jupyter Notebook.
 
